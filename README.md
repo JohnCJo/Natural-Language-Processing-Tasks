@@ -4,5 +4,5 @@ Write the code to perform the following Natural Language Processing (NLP) tasks 
 the NLTK library: Tokenization, Stemming, Lemmatization, Parts of Speech (PoS)
 tagging, Chunking, and Named Entity Recognition (NER).
 
-Additionally, use the huggingface library to perform NLP tasks.
+Additionally, use the GPT-2, BERT etc. with huggingface library to perform NLP tasks.
 Finally, use the GPT-3 model.
